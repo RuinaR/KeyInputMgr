@@ -1,0 +1,5 @@
+﻿  myFunc.cpp
+E:\1학년 2학기\API(vs2019)\API 키보드INPUT관리\myFunc.cpp(140,36): warning C4244: '인수': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\1학년 2학기\API(vs2019)\API 키보드INPUT관리\myFunc.cpp(143,36): warning C4244: '인수': 'WPARAM'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+E:\1학년 2학기\API(vs2019)\API 키보드INPUT관리\myFunc.cpp(199,6): warning C4101: 'Message' :참조되지 않은 지역 변수입니다.
+  unity_framework.vcxproj -> E:\1학년 2학기\API(vs2019)\API 키보드INPUT관리\x64\Debug\InPutMgr.exe

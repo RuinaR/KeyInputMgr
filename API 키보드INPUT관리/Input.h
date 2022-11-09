@@ -48,7 +48,7 @@ public:
 	static void Release(void);
 	static Input& GetInstance(void);
 
-	bool SetKeyState(int vk, bool flag);		//vk가 존재하면 flag 변경 -> return true, 아니면 return false
+	void SetKeyState(int vk, bool flag);		//vk가 존재하면 flag 변경 -> return true, 아니면 return false
 	bool GetKeyState(int vk);
 
 	//테스트용
